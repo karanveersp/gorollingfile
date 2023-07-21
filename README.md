@@ -60,10 +60,10 @@ With this setup, your logger will automatically rotate log files when they reach
 
 ## Contributing
 
-If you find any issues with `gorollinglog` or have suggestions for improvements, feel free to create a pull request or open an issue on the [GitHub repository](https://github.com/karanveersp/gorollinglog). Your contributions are welcome!
+If you find any issues with `gorollinglog` or have suggestions for improvements, feel free to create a pull request or open an issue. Your contributions are welcome!
 
 ## License
 
-`gorollinglog` is open-source software licensed under the [MIT License](https://github.com/karanveersp/gorollinglog/LICENSE). You can use, modify, and distribute it freely according to the terms of the license.
+`gorollinglog` is open-source software licensed under the [MIT License](https://github.com/karanveersp/gorollinglog/blob/master/LICENSE). You can use, modify, and distribute it freely according to the terms of the license.
 
 Thank you for using `gorollinglog`! If you have any questions or need further assistance, please don't hesitate to reach out. Happy logging!
