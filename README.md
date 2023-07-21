@@ -1,6 +1,6 @@
 # gorollinglog
 
-`gorollinglog` is a Go package that provides a rolling file logger. It allows logging to rolling files, where the active file always has the given name (ex. `myapp`), and backup files have an appended integer suffix `myapp_1`, `myapp_2`, and so on. The higher the integer, the older the logs. 
+`gorollinglog` is a Go package that provides a rolling file logger. It allows logging to rolling files, where the active file always has the given name (ex. `myapp.log`), and backup files have an appended integer suffix `myapp_1.log`, `myapp_2.log`, and so on. The higher the integer, the older the logs. 
 
 This package is useful for implementing loggers that automatically rotate log files when they reach a certain size.
 
